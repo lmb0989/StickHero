@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="300" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tmw_desert_spacing" tilewidth="32" tileheight="32">
+  <image source="tmw_desert_spacing.png" width="530" height="398"/>
+ </tileset>
+ <layer name="background" width="300" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt3NsOwiAMgGF2eP8bfWA1mQk2o6WAdpv/lzRTw1hhg7ibTimlKTBm8Xl5xrpFZF5WzssB8jhLMF/Hizn4+t5c3/tC/j06r55xRET0+M8WZ1oj/xxHvk8AAAAAAAAAAAC4hpsR9y0AIFq+J8m48n5l7c81ASBGae1elfW/UtvPrj43AD7Xe89+AQDf1vLOxXsYAAAAAAAAAAAAAPxWa62sb51Tys+bq1bbS2uzV4/PO+bSea39eOdxr21PTcZkHEfWYhsxV1q9OTk32jUkLd/avPL6kjmrrq6Wx6i5t8YbGfnzW1unM1dbg9N7jpT/7q3/WaK10e5l6zPg6ae01qwctbalvUrWmdX6044j14wcw5r8dWQ9c6ONQdLybR1vqe+ett6Yd8b6os1tVG3fB9HjPTk=
+  </data>
+ </layer>
+ <layer name="layer1" width="300" height="20" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJzt2ksOgzAMRdHshe4A9r+2MrFqWaEC5NiG3CMhtZN8DDwS2tYAAAAAAACAsZb9+GQPAgBOIK8AVCc5RV4BqI68AlCdzal1P7bUEQFAH3kFoDqbU+QVnmBpvLOYUS+v5HN2Xi1tvutytvneNapOR8/v2WXXw/bfO0cz5lV2Xnj2nz2XkcirWNn10Ps+2fvp7PLMq7tzzahR9j2uz4FHW2+tnWedeu1m359ahbFkjaF3Pnp5tbVn5ZXXvTLqPrjSv+f6KnIub8mr3jM8U5W80lkR2a/dB1bPqzM1ektere3ZeRXVn1wTo/JK2iavfmOQukTk1dE6V/rX38mrvHd33vvByLm8La8qra/0mi9rDJH/G/j3O6BdV43Kq6tzJa982iKvzrPXXJW8ytiL2TFE5JXNJOlP7zvsHlAfAAAAyPcF5lc41g==
+  </data>
+ </layer>
+ <layer name="块层 3" width="300" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEKwCAMBED/f20f3GsvKaJRmnYG9igEAmtaAwAAAABGHUHOTe8Bet37JTtAbdE9MprZXsiex30F37HinvmTij36tPO3zgzMy+j73Sp2LAAQ818DVegrAAAAAAAAAAAAgLUuYdVoyA==
+  </data>
+ </layer>
+</map>
